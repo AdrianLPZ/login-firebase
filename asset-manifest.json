@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/login-firebase/static/css/main.524ee63b.css",
-    "main.js": "/login-firebase/static/js/main.bd3c267f.js",
+    "main.js": "/login-firebase/static/js/main.ed1c8725.js",
     "index.html": "/login-firebase/index.html",
     "main.524ee63b.css.map": "/login-firebase/static/css/main.524ee63b.css.map",
-    "main.bd3c267f.js.map": "/login-firebase/static/js/main.bd3c267f.js.map"
+    "main.ed1c8725.js.map": "/login-firebase/static/js/main.ed1c8725.js.map"
   },
   "entrypoints": [
     "static/css/main.524ee63b.css",
-    "static/js/main.bd3c267f.js"
+    "static/js/main.ed1c8725.js"
   ]
 }
